@@ -9,7 +9,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "smarty/smarty": "~3.1",
+        // "smarty/smarty": "~3.1", comentei pq esta depreciado
         "phpmailer/phpmailer": "^6.1"
     },
 
